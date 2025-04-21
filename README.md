@@ -9,6 +9,9 @@
 </p>
 
 # Supports
-BO3 - Steam
-BO3 - Windows store
-BO3 - T7-Enhanced 
+- BO3 - Steam<br>
+- BO3 - Windows store<br>
+- BO3 - T7-Enhanced <br>
+
+# Credits:
+- [Baldy09](<https://github.com/Baldywaldy09>)
