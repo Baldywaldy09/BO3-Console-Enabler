@@ -7,3 +7,8 @@
   <br>
   <img src="https://i.imgur.com/sIwTKbN.png" alt="Image">
 </p>
+
+# Supports
+BO3 - Steam
+BO3 - Windows store
+BO3 - T7-Enhanced 
